@@ -1,6 +1,6 @@
-baseurl = "http://hugo-deploy-example.s3-website.ca-central-1.amazonaws.com/"
+baseurl = "http://http://amiblocked.io.website.s3.amazonaws.com/"
 languageCode = "en-us"
-title = "Hugo Deploy Example"
+title = "amiblocked.io"
 
 [deployment]
 order = [".png$", ".jpg$", ".gif$", ".svg$"]
