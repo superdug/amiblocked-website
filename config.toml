@@ -1,3 +1,4 @@
+theme = "ananke"
 baseurl = "http://http://amiblocked.io.website.s3.amazonaws.com/"
 languageCode = "en-us"
 title = "amiblocked.io"
@@ -17,4 +18,4 @@ gzip = true
 [[deployment.matchers]]
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
-theme = "ananke"
+
