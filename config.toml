@@ -6,7 +6,7 @@ title = "Hugo Deploy Example"
 order = [".png$", ".jpg$", ".gif$", ".svg$"]
 
 [[deployment.targets]]
-URL = "s3://hugo-deploy-example?region=ca-central-1"
+URL = "s3://amiblocked.io.website?region=us-east-1"
 
 [[deployment.matchers]]
 # Cache static assets for 20 years.
