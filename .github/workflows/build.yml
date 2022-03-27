@@ -20,7 +20,7 @@ jobs:
         run: $HOME/hugo -v
       - name: Deploy to S3
         if: github.ref == 'refs/heads/main'
-        run: $HOME/hugo -v -s ./amiblocked.io
+        run: $HOME/hugo -v -s ./amiblocked.io -d ../public
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
