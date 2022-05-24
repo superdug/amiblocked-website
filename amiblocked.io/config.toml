@@ -1,4 +1,0 @@
-baseURL = 'http://amiblocked.io.website.s3.amazonaws.com/'
-languageCode = 'en-us'
-title = 'amiblocked.io'
-theme = 'ananke'
