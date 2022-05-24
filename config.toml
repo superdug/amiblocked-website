@@ -18,3 +18,4 @@ gzip = true
 pattern = "^.+\\.(html|xml|json)$"
 gzip = true
 
+theme = 'anake'
