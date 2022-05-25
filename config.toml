@@ -5,5 +5,8 @@ title = 'My New Hugo Site'
 [params]
   homeText = "You just made a Hugo blog from scratch."
 
+[permalinks]
+  blog = "/:filename/"
+
 [[deployment.targets]]
 URL = "s3://amiblocked.io.website?region=us-east-1"
