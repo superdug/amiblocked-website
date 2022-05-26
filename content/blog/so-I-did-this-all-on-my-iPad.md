@@ -1,5 +1,5 @@
 ---
-title: "If by Rudyard Kipling"
+title: "I did all of this on my iPad"
 date: 2022-05-25T23:22:35Z
 draft: false
 ---
