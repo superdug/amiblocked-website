@@ -13,10 +13,6 @@ theme = "ghostwriter"
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
-[Permalinks]
-    post = "/:filename/"index.html
-
-
 [deployment]
   [[deployment.targets]]
     name = "aws-s3"
