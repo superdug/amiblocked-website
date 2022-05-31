@@ -17,12 +17,6 @@ theme = "ghostwriter"
     post = "/:filename/"
 
 
-
-
-[[deployment.targets]]
-URL = "s3://amiblocked.io.website?region=us-east-1"
-
-
 [deployment]
   [[deployment.targets]]
     name = "aws-s3"
