@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "My blog"
+title = "amiblocked.io"
 theme = "ghostwriter"
 
 [Params]
