@@ -5,8 +5,8 @@ theme = "ghostwriter"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "My headline"
-    description = "My description"
+    headline = "Welcome to amiblocked.io"
+    description = "This site has been a wild ride"
     github = "https://github.com/superdug"
     email = "info@amiblocked.io"
     opengraph = true
@@ -14,7 +14,7 @@ theme = "ghostwriter"
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
-    post = "/post/:filename/"
+    post = "/:filename/"
 
 
 
