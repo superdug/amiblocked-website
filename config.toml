@@ -8,9 +8,7 @@ theme = "ghostwriter"
     headline = "Welcome to amiblocked.io"
     description = "This site has been a wild ride"
     github = "https://github.com/superdug"
-    email = "info@amiblocked.io"
     opengraph = true
-    shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
 
 [deployment]
