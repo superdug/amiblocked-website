@@ -21,7 +21,7 @@ theme = "ghostwriter"
   [[deployment.targets]]
     name = "aws-s3"
     URL = "s3://amiblocked.io.website?region=us-east-1"
-    cloudFrontDistributionID = "E1MBXGD6ZC81E2"
+    cloudFrontDistributionID = "E3967CGP251YI1"
 
   [[deployment.matchers]]
     pattern = "^sitemap\\.xml$"
