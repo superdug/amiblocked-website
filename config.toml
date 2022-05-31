@@ -14,7 +14,7 @@ theme = "ghostwriter"
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
-    post = "/:filename/index.html"
+    post = "/:filename/"index.html
 
 
 [deployment]
