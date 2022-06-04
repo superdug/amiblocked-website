@@ -34,6 +34,9 @@ Since the site uses hugo and an automated git workflow in GitHub to publish, tha
 
 There is all sorts of room for improvement here.  And we’ll start to see that as the ecosystems of Mac OS and iPad OS start to mesh together.  I know that the keeping the ecosystems apart makes some sense to someone somewhere, but not me, and fighting it is just stupid.  People want to interact with a super powerful slate, plain and simple.
 
+***UPDATE*** 06-04-2022
 
+I've since opted to go with using prompt instead of termius.  It has the ability to copy from the screen which I very sorely missed having and was getting by with SCPing files between my main server and my iPad.  That is not needed any longer thanks to [Panic's Prompt SSH Client for iOS](https://panic.com/prompt/).
 
-
+`
+***UPDATE*** 06-04-2022
