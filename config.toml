@@ -1,6 +1,7 @@
 baseurl = "/"
 title = "amiblocked.io"
 theme = "ghostwriter"
+disqusShortname = "amiblocked"
 
 [Params]
     mainSections = ["post"]
