@@ -34,6 +34,6 @@ Since the site uses hugo and an automated git workflow in GitHub to publish, tha
 
 There is all sorts of room for improvement here.  And we’ll start to see that as the ecosystems of Mac OS and iPad OS start to mesh together.  I know that the keeping the ecosystems apart makes some sense to someone somewhere, but not me, and fighting it is just stupid.  People want to interact with a super powerful slate, plain and simple.
 
+***UPDDATE** 06-05-2022
 
-
-
+I've since stopped using termius and switched to using [Panic's SSH Client for iOS](https://panic.com/prompt/).  It's made by the same folks that make the playdate gaming system and it includes copy and paste of the terminal screen.  Thus my need for a SCP client was ended and termius was retired.
