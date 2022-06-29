@@ -2,7 +2,7 @@
  title: "I did all of this on my iPad"
  date: 2022-05-25T23:22:35Z
  draft: false
- ---
+---
 
  So I decided to get myself an iPad Pro 12.9” as a full time machine to replace my need for both an iPad and a MacBook Pro.  This endeavor I should mention was meant to better my life, which doesn’t necessarily mean it was the cheapest or most economical solution, but in the end worked out really well.
 
@@ -38,4 +38,3 @@
 
  I've since stopped using termius and switched to using [Panic's SSH Client for iOS](https://panic.com/prompt/).  It's made by the same folks that make the playdate gaming system and it includes copy and paste of the terminal screen.  Thus my need for a SCP client was ended and termius was retired.
 
- 
