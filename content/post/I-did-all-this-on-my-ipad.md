@@ -37,3 +37,5 @@
  ***UPDDATE** 06-05-2022
 
  I've since stopped using termius and switched to using [Panic's SSH Client for iOS](https://panic.com/prompt/).  It's made by the same folks that make the playdate gaming system and it includes copy and paste of the terminal screen.  Thus my need for a SCP client was ended and termius was retired.
+
+ 
