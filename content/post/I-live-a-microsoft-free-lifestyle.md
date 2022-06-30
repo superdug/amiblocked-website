@@ -2,7 +2,7 @@
 title = "I Live a Microsoft Free Lifestyle"
 description = ""
 author = "Doug"
-date = 2022-29-04T05:09:10Z
+date = 2022-06-04T05:09:10Z
 tags = []
 draft = false
 +++
@@ -22,4 +22,3 @@ Throughout the years I've given gifts of computers to family and friends. For ye
 I've built one windows machine, and that was an experiment on what it would actually take to fully license and build a Microsoft PC from scratch. At the time I was testing a VNC initiator program that when you clicked it, it would relay your screen back to me. This was how I was able to maintain the PC for my parents as well as meet the needs to not have any pirated software on the machine at all. It was expensive to say the least and when you took all of the pieces of hardware and software and put them together the cost of a mac wasn't really that much further away.
 
 Personally I've used every operating system that you can get your hands on. I used to test operating systems, just to learn their installation process and to see what was available in whatever shiny new system that came out. I've been a fan of linux on the desktop for a very long time, but realize that it never really made it mainstream. The closest thing to linux on the desktop that I'd recommend is a chromebook. Then again, I'd personally tell you to get an iPad to do whatever it was you were trying to accomplish.
-
